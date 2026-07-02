@@ -1,5 +1,11 @@
 # voice-assistant
 
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-skill-FF6C37?logo=anthropic&logoColor=white)](https://claude.ai/code)
+[![Shell](https://img.shields.io/badge/Shell-bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Platform](https://img.shields.io/badge/platform-Linux%20|%20macOS-lightgrey)](https://github.com/AndyYang12345/voice-assistant)
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Depends](https://img.shields.io/badge/depends-voice--pipeline-8A2BE2)](https://github.com/AndyYang12345/voice-pipeline)
+
 Claude Code 语音助手插件 —— 基于 [voice-pipeline](https://github.com/AndyYang12345/voice-pipeline) 的 Claude Code TTS 交互集成。
 
 ## 功能
