@@ -1,6 +1,6 @@
 # voice-assistant
 
-Claude Code 语音助手插件 —— 基于 [voice-pipeline](https://github.com/<your-username>/voice-pipeline) 的 Claude Code TTS 交互集成。
+Claude Code 语音助手插件 —— 基于 [voice-pipeline](https://github.com/AndyYang12345/voice-pipeline) 的 Claude Code TTS 交互集成。
 
 ## 功能
 
@@ -36,7 +36,7 @@ voice-pipeline               ← TTS 管线层（合成 + 播放 + 服务管理�
 ### 安装
 
 ```bash
-git clone https://github.com/<your-username>/voice-assistant.git
+git clone https://github.com/AndyYang12345/voice-assistant.git
 cd voice-assistant
 bash install.sh
 ```
@@ -48,12 +48,6 @@ bash install.sh
 ```bash
 cat profiles/template.md >> ~/.claude/CLAUDE.md
 # 然后编辑 ~/.claude/CLAUDE.md，填入你的角色信息
-```
-
-或使用预设角色（如有）：
-
-```bash
-cat profiles/priestess.md >> ~/.claude/CLAUDE.md
 ```
 
 ### 使用
