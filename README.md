@@ -1,5 +1,7 @@
 # voice-assistant
 
+**中文** | [**English**](README_EN.md)
+
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-skill-FF6C37?logo=anthropic&logoColor=white)](https://claude.ai/code)
 [![Shell](https://img.shields.io/badge/Shell-bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Platform](https://img.shields.io/badge/platform-Linux%20|%20macOS-lightgrey)](https://github.com/AndyYang12345/voice-assistant)
